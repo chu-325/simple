@@ -16,9 +16,12 @@ def euler(n) :
     else:
         return 1/(fact(n)) + euler(n - 1)
     
+<<<<<<< HEAD
 def sqare(n):
     return n * n
     
+=======
+>>>>>>> feature/issue3
 
 
 if __name__ == "__main__":

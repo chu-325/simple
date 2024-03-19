@@ -4,6 +4,7 @@ factorial
 exponantial
 Integral
 Prime factor
+<<<<<<< HEAD
 Sieve of Eratosthenes
 Catalan numbers
 
@@ -11,3 +12,9 @@ Chinese Remainder Theorem
 Euclidean Algorithm
 Euclidean Algorithm
 
+=======
+Euclidean 
+lala
+lol
+lol
+>>>>>>> feature/issue3
