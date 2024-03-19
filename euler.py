@@ -1,5 +1,5 @@
 def main():
-    n = int(input(" e(n) , n = "))
+    n = 3
     print("euler({}) = {:.5f}".format(n, euler(n)))
 
 def fact(k) :
@@ -14,6 +14,7 @@ def euler(n) :
         return 1
     else:
         return 1/(fact(n)) + euler(n - 1)
+    
 
 
 if __name__ == "__main__":
