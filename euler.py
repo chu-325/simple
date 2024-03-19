@@ -14,6 +14,7 @@ def euler(n) :
         return 1
     else:
         return 1/(fact(n)) + euler(n - 1)
+    
 
 
 if __name__ == "__main__":
