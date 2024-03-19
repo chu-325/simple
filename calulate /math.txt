@@ -3,3 +3,4 @@ euler
 factorial
 exponantial
 Integral
+Prime factor
