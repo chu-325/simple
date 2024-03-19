@@ -4,3 +4,4 @@ factorial
 exponantial
 Integral
 Prime factor
+Euclidean 
