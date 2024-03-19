@@ -4,3 +4,10 @@ factorial
 exponantial
 Integral
 Prime factor
+Sieve of Eratosthenes
+Catalan numbers
+
+Chinese Remainder Theorem
+Euclidean Algorithm
+Euclidean Algorithm
+

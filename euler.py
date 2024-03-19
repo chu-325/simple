@@ -1,5 +1,5 @@
 def main():
-    n = 3
+    n = 5
     print("euler({}) = {:.5f}".format(n, euler(n)))
 
 def fact(k) :
